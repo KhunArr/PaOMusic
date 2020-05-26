@@ -102,4 +102,12 @@
         "rating": 8.2,
         "releaseYear": 2010,
         "genre": ["Animation", "Adventure", "Family"]
-    }]
+    },
+    {
+        "title": "အဆုဲင္ꩻသြတ္",
+        "image": "https://api.androidhive.info/json/movies/3.jpg",
+        "rating": 6.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+    }
+]
